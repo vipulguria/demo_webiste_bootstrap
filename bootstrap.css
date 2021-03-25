@@ -1,0 +1,32 @@
+.navbar-brand{
+    font-family: 'Ranchers', cursive;
+    letter-spacing: 2px;
+}
+.nav-item{
+    font-family: 'Acme', sans-serif;
+}
+
+.carousel .carousel-item {
+    height: 600px;
+  }
+.img-fluid{
+      height: 600px;
+  }
+
+h2{
+    text-align: center;
+    font-family: 'Acme', sans-serif;
+}
+
+.card-text{
+    font-family: 'Acme', sans-serif;
+}
+
+.fab{
+    color:white;
+}
+
+.modal-dialog{
+    font-family: 'Acme', sans-serif;
+}
+

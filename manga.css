@@ -1,0 +1,18 @@
+.navbar-brand{
+    font-family: 'Ranchers', cursive;
+    letter-spacing: 2px;
+}
+.nav-item{
+    font-family: 'Acme', sans-serif;
+}
+.lead{
+    font-family: 'Ranchers', cursive;
+}
+.featurette-heading{
+    font-family: 'Ranchers', cursive;
+}
+
+.fab{
+    color:white;
+}
+
